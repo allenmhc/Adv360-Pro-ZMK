@@ -7,6 +7,9 @@
 1. Fork this repo.
 2. Enable GitHub Actions on your fork.
 
+### GUI
+https://kinesiscorporation.github.io/Adv360-Pro-GUI/
+
 ### Build firmware
 
 1. Push a commit to trigger the build.
@@ -26,5 +29,7 @@
 ### Flash firmware
 
 Resources can be found on Kinesis.com
+
 https://kinesis-ergo.com/support/kb360pro/#firmware-updates
+
 https://kinesis-ergo.com/support/kb360pro/#manuals
